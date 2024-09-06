@@ -1,0 +1,3 @@
+C:/Coding/C++/passsound/CMakeFiles/passsound.dir
+C:/Coding/C++/passsound/CMakeFiles/ALL_BUILD.dir
+C:/Coding/C++/passsound/CMakeFiles/ZERO_CHECK.dir

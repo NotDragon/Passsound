@@ -1,0 +1,14 @@
+# ninja log v5
+4	1586	6758026405505487	CMakeFiles/passsound.dir/main.cpp.obj	6faf366aae0abba5
+1587	1682	6758026406456353	passsound.exe	d4fc04740bf02cd
+2	176	6869151757805599	build.ninja	d61250017d227c3d
+2	1439	6869151772741146	CMakeFiles/passsound.dir/main.cpp.obj	6faf366aae0abba5
+1440	1625	6869151774624749	passsound.exe	d4fc04740bf02cd
+2	1289	6869153819241333	CMakeFiles/passsound.dir/main.cpp.obj	6faf366aae0abba5
+1289	1379	6869153820026688	passsound.exe	d4fc04740bf02cd
+3	1208	6869154489346241	CMakeFiles/passsound.dir/main.cpp.obj	6faf366aae0abba5
+1208	1284	6869154489970247	passsound.exe	d4fc04740bf02cd
+3	1332	6869157213894493	CMakeFiles/passsound.dir/main.cpp.obj	6faf366aae0abba5
+1333	1412	6869157214761268	passsound.exe	d4fc04740bf02cd
+3	1282	6869158441444126	CMakeFiles/passsound.dir/main.cpp.obj	6faf366aae0abba5
+1283	1367	6869158442228612	passsound.exe	d4fc04740bf02cd

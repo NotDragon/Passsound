@@ -1,0 +1,3 @@
+C:/Coding/C++/passsound/cmake-build-debug/CMakeFiles/passsound.dir
+C:/Coding/C++/passsound/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Coding/C++/passsound/cmake-build-debug/CMakeFiles/rebuild_cache.dir
